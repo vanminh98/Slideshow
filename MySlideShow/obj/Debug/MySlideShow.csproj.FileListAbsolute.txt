@@ -1,0 +1,10 @@
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\bin\Debug\MySlideShow.exe.config
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\bin\Debug\MySlideShow.exe
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\bin\Debug\MySlideShow.pdb
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\obj\Debug\MySlideShow.csprojAssemblyReference.cache
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\obj\Debug\MySlideShow.Form1.resources
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\obj\Debug\MySlideShow.Properties.Resources.resources
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\obj\Debug\MySlideShow.csproj.GenerateResource.cache
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\obj\Debug\MySlideShow.csproj.CoreCompileInputs.cache
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\obj\Debug\MySlideShow.exe
+C:\Users\praoh\source\repos\MySlideShow\MySlideShow\obj\Debug\MySlideShow.pdb
